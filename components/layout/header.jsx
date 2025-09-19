@@ -9,7 +9,7 @@ export function Header() {
           {/* Brand Name - Left Side */}
           <div className="flex items-center">
             <h1 className="text-2xl font-bold text-foreground">
-              Kpital Tech
+              WeFixPhones
             </h1>
           </div>
 

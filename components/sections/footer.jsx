@@ -11,7 +11,7 @@ export function Footer() {
             {/* Company Info */}
             <div className="lg:col-span-2">
               <h3 className="text-2xl font-bold text-foreground mb-4">
-                Kpital Tech
+                We Fix Phones
               </h3>
               <p className="text-muted-foreground mb-6 leading-relaxed">
                 Trusted experts for phone and laptop repairs in Houston. Fast, reliable service with flexible parts options and a comprehensive warranty. Your satisfaction is our priority.
@@ -23,7 +23,7 @@ export function Footer() {
                 </div>
                 <div className="flex items-center gap-3 text-muted-foreground">
                   <Mail className="h-4 w-4" />
-                  <span>info@kpitaltech.com</span>
+                  <span>support@we-fix-phones.com</span>
                 </div>
                 <div className="flex items-center gap-3 text-muted-foreground">
                   <MapPin className="h-4 w-4" />
@@ -69,7 +69,7 @@ export function Footer() {
 
         <div className="py-6 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
           <div>
-            © 2025 Kpital Tech. All rights reserved.
+            © 2025 We Fix Phones. All rights reserved.
           </div>
           <div className="flex gap-6">
             <span>90-Day Warranty</span>

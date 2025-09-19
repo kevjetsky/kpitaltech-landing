@@ -30,10 +30,10 @@ export const metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "Kpital Tech — Phone & Laptop Repair in Houston",
+    title: "We Fix Phones — Phone & Laptop Repair in Houston",
     description: "Fast, warrantied repairs. Free diagnostic. Mobile service available.",
     url: "https://kpitaltech.com",
-    siteName: "Kpital Tech",
+    siteName: "We Fix Phones",
     locale: "en_US",
     type: "website",
     images: [
@@ -41,13 +41,13 @@ export const metadata = {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Kpital Tech - Houston Device Repair",
+        alt: "We Fix Phones - Houston Device Repair",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Kpital Tech — Phone & Laptop Repair in Houston",
+    title: "We Fix Phones — Phone & Laptop Repair in Houston",
     description: "Fast, warrantied repairs. Free diagnostic. Mobile service available.",
     images: ["/og-image.jpg"],
   },
@@ -68,11 +68,11 @@ export default function RootLayout({ children }) {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Kpital Tech",
+    "name": "We Fix Phones",
     "description": "Professional phone and laptop repair services in Houston with same-day service and 90-day warranty.",
-    "url": "https://kpitaltech.com",
+    "url": "https://we-fix-phones.com",
     "telephone": "505-524-3280",
-    "email": "info@kpitaltech.com",
+    "email": "support@we-fix-phones.com",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Houston",

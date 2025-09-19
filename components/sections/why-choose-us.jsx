@@ -33,7 +33,7 @@ export function WhyChooseUs() {
       <Container>
         <div className="text-center mb-16">
           <Heading level="h2" className="mb-4">
-            Why Choose Kpital Tech?
+            Why Choose WeFixPhones?
           </Heading>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Professional service you can trust with transparent pricing and guaranteed results.
